@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm habibulfauzan from Pekanbaru, Indonesia.<br><br>- 🔭 I’m a student/<br>- 📚 I'm currently using Laravel<br>- ⚡ In my free time I try to create a mini project</p>
+<p align="left">I'm habibulfauzan from Pekanbaru, Indonesia.<br><br>- 🔭 I’m a student/<br>- ⚡ In my free time I try to create a mini project</p>
 
 ###
 
